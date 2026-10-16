@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo, Saya Ahmad Ziyad Alhamdani <br>
 
-<!--
-**ziyadalhamdani-bit/ziyadalhamdani-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏢 Mahasiswa Informatika Universitas Muhammadiah Surabaya
+*Saya sedang belajar dasar Git & GitHub*
 
-Here are some ideas to get you started:
+# Tentang Saya 
+*Alumni : Ma'had Al-Muqoddasah Li Tahfizhil Qur'an* <br>
+*Hobi : Bermain Mobile Legends* <br>
+*Keahlian : Menang Adu Retri* <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skill Yang Dikuasai
+*Photography Videography*
+
