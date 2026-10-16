@@ -9,5 +9,6 @@
 *Keahlian : Menang Adu Retri* <br>
 
 # Skill Yang Dikuasai
-*Photography Videography*
+*Photography* <br>
+*Videography* <br>
 
